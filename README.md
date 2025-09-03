@@ -30,11 +30,8 @@ python -m venv .venv
 pip install -r requirements.txt
 ```
 
-3) **Open the notebook and run all cells:**
-- VS Code → open folder → open `notebooks/Loan_Approval_Prediction.ipynb`
-- Run each cell top-to-bottom. This will train models and save the best pipeline to `models/loan_approval_pipeline.joblib`.
 
-4) **Run the Streamlit app:**
+3) **Run the Streamlit app:**
 ```bash
 streamlit run app/app.py
 ```
@@ -50,8 +47,7 @@ plant-disease-prediction/
 │── README.md              # Project documentation
 
 
-
-## Author
+Author
 ```
  Abdullah Naseem
 
