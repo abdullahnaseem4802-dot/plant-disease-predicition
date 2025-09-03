@@ -1,7 +1,15 @@
 # 🌱 Plant Disease Prediction App  
 
-A **deep learning-based web application** built with **TensorFlow/Keras** and **Streamlit** that predicts plant leaf diseases from uploaded images.  
-This project is designed to help farmers, researchers, and students quickly detect plant health issues using computer vision.  
+This project is a **web-based application** that predicts plant leaf diseases using a **deep learning model** trained on the **PlantVillage dataset**. Users can upload an image of a plant leaf, and the app will classify it into the correct disease/healthy category.  
+
+---
+
+## **Features**  
+
+* **Image Upload:** Upload `.jpg`, `.jpeg`, or `.png` leaf images.  
+* **Deep Learning Predictions:** Classify images into multiple plant disease categories.  
+* **Confidence Scores:** Display probability scores for predictions.  
+* **User-friendly Interface:** Built with Streamlit for a clean and interactive UI.  
 
 ---
 
